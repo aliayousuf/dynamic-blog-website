@@ -41,7 +41,7 @@ export default function Homepage() {
               Benefits Of Walking Every Day
             </h2>
             <p className="mt-2 text-sm lg:text-base text-gray-600 flex-grow">
-              Walking is a great way to improve or maintain your overall health. Just 30 minutes every day can increase cardiovascular fitness, strengthen bones, reduce excess body fat, and boost muscle power and endurance.
+              Walking is a great way to improve or maintain your overall health. Just 30 minutes every day can increase cardiovascular fitness strengthen bones reduce excess body fat and boost muscle power and endurance.
             </p>
           </div>
         </Link>
@@ -85,7 +85,7 @@ export default function Homepage() {
               Understanding Agentic AI
             </h2>
             <p className="mt-2 text-sm lg:text-base text-gray-600 flex-grow">
-              Agentic AI represents the next step in autonomous systems, enabling decision-making without constant human supervision.
+              Agentic AI represents the next step in autonomous systems enabling decision making without constant human supervision.
             </p>
           </div>
         </Link>

@@ -10,7 +10,7 @@ export default function Contact() {
 
         <div className="text-center mb-6 sm:mb-8">
           <p className="text-gray-600 text-sm sm:text-base">
-            We'd love to hear from you! Please fill out the form below and we'll get back to you as soon as possible.
+            We love to hear from you! Please fill out the form below and we will get back to you as soon as possible.
           </p>
         </div>
 
